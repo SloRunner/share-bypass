@@ -21,6 +21,10 @@ Tampermonkey (Google Chrome) from <a href="https://chrome.google.com/webstore/de
 
 When you installed Tampermonkey/greasemonkey use this <a href="https://github.com/SloRunner/share-bypass/raw/master/auto-update.user.js">auto installer</a>
 
+
+<h1>Testing</h1>
+So you boosted your browser with my script, try it on that page then <a href="http://www.vdeozone.com/" target="_blank">Link</a>
+
 <h1>Donations</h1>
 Bitcoin: MEt9GyRSGty1ibxtiDX4U5sNbEyKAZgS1
 
@@ -29,5 +33,5 @@ Dogecoin: DCPbvRmU4TeNApvVbCHN9QAn1HDz8ghjik
 
 <h1>Version History</h1>
 
-<b>Version 0.7</b><br>
+<b>Version 0.9</b><br>
 Initial version pushed to GitHub.
