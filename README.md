@@ -29,5 +29,5 @@ Dogecoin: DCPbvRmU4TeNApvVbCHN9QAn1HDz8ghjik
 
 <h1>Version History</h1>
 
-<b>Version 1.0.0 BETA</b><br>
-Initial mommit to Github
+<b>Version 0.7</b><br>
+Initial version pushed to GitHub.
