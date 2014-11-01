@@ -13,12 +13,11 @@ Report bugs on <a href="https://github.com/SloRunner/share-bypass/issues">Issues
 
 <h1>Install</h1>
 
-First install greasemonkey (Mozzila Firefox) from here
-http://en.wikipedia.org/wiki/Greasemonkey
+First install greasemonkey (Mozzila Firefox) from <a href="https://addons.mozilla.org/sl/firefox/addon/greasemonkey/">here</a>
 
 or
-Tampermonkey (Google Chrome) from here
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+Tampermonkey (Google Chrome) from <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">here</a>
 
 When installed use this auto installer
 https://github.com/SloRunner/share-bypass/raw/master/auto-update.user.js
