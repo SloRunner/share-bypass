@@ -1,15 +1,15 @@
 <h1>share-bypass</h1>
 ============
 
-Bypasses those anyoing "Share on facebook to unlock video" vids
+Bypasses those anyoing "Share on facebook to unlock video" vids and redirects you directly to youtube video
 
 ===========
 
 <h1>Requests</h1>
 
-So you have a request for page, or you found a bug?
+So you have a request for page, or you found a bug in my script?
 
-Report bugs on <a href="https://github.com/SloRunner/share-bypass/issues">Issues</a> (Same if you found a website that doesn't work ;) )
+Report bugs on <a href="https://github.com/SloRunner/share-bypass/issues">Issues</a> (Same if you found a website that doesn't redirect ;) )
 
 <h1>Install</h1>
 
@@ -19,7 +19,7 @@ or
 
 Tampermonkey (Google Chrome) from <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">here</a>
 
-When installed use this <a href="https://github.com/SloRunner/share-bypass/raw/master/auto-update.user.js">auto installer</a>
+When you installed Tampermonkey/greasemonkey use this <a href="https://github.com/SloRunner/share-bypass/raw/master/auto-update.user.js">auto installer</a>
 
 <h1>Donations</h1>
 Bitcoin: MEt9GyRSGty1ibxtiDX4U5sNbEyKAZgS1
