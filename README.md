@@ -19,8 +19,12 @@ or
 
 Tampermonkey (Google Chrome) from <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">here</a>
 
-When installed use this auto installer
-https://github.com/SloRunner/share-bypass/raw/master/auto-update.user.js
+When installed use this <a href="https://github.com/SloRunner/share-bypass/raw/master/auto-update.user.js">auto installer</a>
+
+<h1>Donations</h1>
+<a href="bitcoin:1MEt9GyRSGty1ibxtiDX4U5sNbEyKAZgS1">Bitcoin</a>
+<a href="dogecoin:DCPbvRmU4TeNApvVbCHN9QAn1HDz8ghjik">Dogecoin</a>
+
 
 <h1>Version History</h1>
 
