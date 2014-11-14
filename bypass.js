@@ -47,7 +47,7 @@ SOFTWARE.
     var loc = window.location;
     myurl = loc.hostname;
     window.onload = function(){
-    if (myurl === 'www.youtube.com'){
+    if (myurl === "www.youtube.com"){
         return;
     }
     if (myurl === 'www.vdeozone.com') {
