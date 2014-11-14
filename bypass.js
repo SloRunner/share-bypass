@@ -72,7 +72,7 @@ SOFTWARE.
     if (myurl === domains[i]) {
     return;
     }else{
-    if(results[1].indexOf('youtube.com') > 0){
+    if(results[1].indexOf('youtube.com') > 0 && myurl != 'youtube.com'){
     var stripUrl = results[1].replace('url("http://img.youtube.com/vi/', '');
          stripUrl = stripUrl.replace('0.jpg")', '');
             // view the console to see the result
