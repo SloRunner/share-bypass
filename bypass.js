@@ -47,6 +47,9 @@ SOFTWARE.
     var loc = window.location;
     myurl = loc.hostname;
     window.onload = function(){
+    if (myurl === 'www.youtube.com'){
+        return;
+    }
     if (myurl === 'www.vdeozone.com') {
         if (!document.getElementById('video-lock').href == null) {
             window.location = document.getElementById('video-lock').href;
@@ -72,7 +75,7 @@ SOFTWARE.
     if (myurl === domains[i]) {
     return;
     }else{
-    if(results[1].indexOf('youtube.com') > 0 && myurl != 'youtube.com'){
+    if(results[1].indexOf('youtube.com') > 0){
     var stripUrl = results[1].replace('url("http://img.youtube.com/vi/', '');
          stripUrl = stripUrl.replace('0.jpg")', '');
             // view the console to see the result
